@@ -1,0 +1,2 @@
+# faqaccordian
+Frontend mentor project
